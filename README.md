@@ -37,7 +37,26 @@ run roscore on terrminal
 
 for visualize the image from isaac ros omniverse 
 
-#  Add tf-Transform for jetbot 
+#  Add tf-Transform using omni graph 
+
+![image](https://github.com/kabilan2003/jetbot-isaac-ros-omniverse/assets/109456728/f1483877-53d7-4d85-bb20-fda66e8b024b)
+
+visualize tf data in terminal 
+
+![image](https://github.com/kabilan2003/jetbot-isaac-ros-omniverse/assets/109456728/d94a2eb8-b0a2-442a-9a73-8e414ff9ca73)
+
+tf is used for track the camera position and localization imformation 
+
+# Troubleshooting
+
+If any issue see youtube video on isaac ros omniverse for jetbot simulation on omniverse 
+
+link: https://youtu.be/gf1c4JKi5Xk
+
+
+
+
+
 
 
 
