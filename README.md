@@ -11,7 +11,14 @@ Before running the JetBot simulation, you need to have the following software in
 2. ros noetic
 3. isaac ros omniverse
 
-   # Launch isaac ros omniverse with jetbot from nvidia robot examples in create 
+# Launch isaac ros omniverse with jetbot from nvidia robot examples in create 
 
 ![image](https://github.com/kabilan2003/jetbot-isaac-ros-omniverse/assets/109456728/60f71eca-9b04-42a9-bfd6-a2c3734d5c7b)
+
+# Add omni graph to jetbot 
+Open Visual Scripting: Window > Visual Scripting > Action Graph.
+
+
+
+
 
