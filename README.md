@@ -28,12 +28,18 @@ After connecting omni graph node
 
 ros bridge is used for connecting non ros program 
 
+Window > extension > ros_bridge 
+
 # configure omniverse isaac ros with ros 
 
 run roscore on terrminal 
 # And than run rqt graph on termanil 
 
 for visualize the image from isaac ros omniverse 
+
+#  Add tf-Transform for jetbot 
+
+
 
 
 
