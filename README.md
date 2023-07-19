@@ -55,6 +55,9 @@ for visualize the image from isaac ros omniverse
 # visualize tf data in terminal 
 
 ![image](https://github.com/kabilan2003/jetbot-isaac-ros-omniverse/assets/109456728/d94a2eb8-b0a2-442a-9a73-8e414ff9ca73)
+
+
+
 Terminal will show coordinate frame of camera.
 1. Where was the camera frame relative to the world frame, 5 seconds ago.
 2. What is the current pose of the base frame in the map frame of jetbot. 
