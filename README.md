@@ -19,6 +19,13 @@ Before running the JetBot simulation, you need to have the following software in
 Open Visual Scripting: Window > Visual Scripting > Action Graph.
 
 ![image](https://github.com/kabilan2003/jetbot-isaac-ros-omniverse/assets/109456728/76d70509-7a08-4ff6-ba9f-270882987bca)
+1. on play back tick
+2. isaac create veiwport
+3. isaac get veiwport ridar product
+4. isaac set camera
+5. ros1 camera helper
+
+list of omni graph node are used for camera interfacing with jetbot with omni isaac ros 
 
 The ROS1 Camera Helper is a versatile utility designed to streamline camera-related tasks within the Robot Operating System (ROS) environment. This package simplifies the process of publishing camera data by indicating the type of data to publish and the corresponding ROS topic for publication.
 
@@ -41,11 +48,14 @@ for visualize the image from isaac ros omniverse
 
 ![image](https://github.com/kabilan2003/jetbot-isaac-ros-omniverse/assets/109456728/f1483877-53d7-4d85-bb20-fda66e8b024b)
 
-visualize tf data in terminal 
+1. on playback tick
+2. ros1 publisher transform tree tf (tf is used for track the camera position and localization imformation)
+3. isaac read simulation time 
+
+# visualize tf data in terminal 
 
 ![image](https://github.com/kabilan2003/jetbot-isaac-ros-omniverse/assets/109456728/d94a2eb8-b0a2-442a-9a73-8e414ff9ca73)
 
-tf is used for track the camera position and localization imformation 
 
 # Troubleshooting
 
